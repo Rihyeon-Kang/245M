@@ -3,4 +3,6 @@
 ## 2.2.7 Exercise
 made a change to my readme file.git
 
-Extra change is made to the new branch, b1_practice.
+Extra change is made to the new branch, b1_practi/ce.
+
+There's a typo.
